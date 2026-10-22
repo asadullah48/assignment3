@@ -60,6 +60,7 @@ const About: React.FC = () => {
       </section>
 
       <section className={styles.testimonialSection}>
+        <h2>Sample testimonials (placeholder content)</h2>
         <div className={styles.swiperContainer}>
           <div className={styles.swiperWrapper}>
             <div className={styles.swiperSlide}>
